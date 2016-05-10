@@ -21,7 +21,8 @@ public class VenueHireSystem {
 	 * @param args
 	 * @throws IOException
 	 */
-	public static void main(String[] args) throws IOException {		 
+	public static void main(String[] args) throws IOException {
+		System.out.println("FIrst change");
 		List<Venue>a = new ArrayList<Venue>();
 		List<Request>b = new ArrayList<Request>();
 		String months[] = {"Jan", "Feb", "Mar", "Apr", "May", "Jun",
